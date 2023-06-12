@@ -4,7 +4,7 @@ title:  "Keeping An Eye On Our Trash"
 date:   2023-06-11 11:59:00 -0800
 ---
 
-![When full, King County's dump will be the same size as Green Lake and Woodland Parks in Seattle combined (credit: me)](../assets/img/2023-06-11_green-lake-dump.png)
+![When full, King County's dump will be the same size as Green Lake and Woodland Parks in Seattle combined (credit: me)](/assets/img/2023-06-11-green-lake-dump.png)
 
 # Garbage's Disappearing Act
 There's a [great episode of 99 Percent Invisible](https://99percentinvisible.org/episode/separation-anxiety/) that compares residential waste collection systems in Taiwan and the US. In Taipei, garbage and recycling trucks run their routes multiple times a day, playing distinctive classical music, and at each stop wait for residents to throw in their own garbage bags and sort their own recyclables. It's a system that forces residents to reckon with the volume and types of their waste.
@@ -17,7 +17,7 @@ But where does it all go? And how much of it is there? In King County, while our
 
 *Tada!* Look at the red outline in the bottom-right corner of the map below. If you live in King County (except Seattle and Milton, more on that later), most of your garbage goes there, to the Cedar Hills Regional Landfill.
 
-![Location of Cedar Hills Regional Landfill in the East Renton Highlands](/assets/img/2023-06-11_cedar-hills-map.png)
+![Location of Cedar Hills Regional Landfill in the East Renton Highlands](/assets/img/2023-06-11-cedar-hills-map.png)
 
 *Location of Cedar Hills Regional Landfill in the East Renton Highlands (credit: Google Maps plus my own annotation)*
 
@@ -33,19 +33,19 @@ How will the landfill manage future population and waste growth? The King County
 
 **The truth is that Cedar Hills is running out of space.** In fact, when the 2019 Plan was published, the landfill was estimated to reach capacity by 2028, but in 2022 the county decided to expand it, kicking the can of deciding where to put our post-Cedar Hills trash 10 years down the road.
 
-![Estimated solid waste recycled and disposed 2018-2040 will grow from approximately 2M annual tons to 3.5M annual tons](/assets/img/2023-06-11_total-waste-estimate-tons.png)
+![Estimated solid waste recycled and disposed 2018-2040 will grow from approximately 2M annual tons to 3.5M annual tons](/assets/img/2023-06-11-total-waste-estimate-tons.png)
 
 *Estimated solid waste recycled and disposed 2018-2040 will grow from approximately 2M annual tons to 3.5M annual tons (credit: King County Solid Waste Division)*
 
 The adopted [expansion plan](https://your.kingcounty.gov/dnrp/library/solid-waste/facilities/CHRLF-plan-2020-preferred-alt.pdf) created a new 34-acre Zone 9 in the landfill, for a total active area of about 500 acres, and also permitted the waste to pile up to 30 feet higher than before, from 800 feet to 830 feet above sea level. Since [Cedar Hills is about 630 feet above sea level](https://www.topozone.com/washington/king-wa/locale/cedar-hills-landfill/), that's about 200 feet above the ground.
 
-![Map of Cedar Hills expansion, showing all zones and buffer area around the landfill](/assets/img/2023-06-11_cedar-hills-expansion.png)
+![Map of Cedar Hills expansion, showing all zones and buffer area around the landfill](/assets/img/2023-06-11-cedar-hills-expansion.png)
 
 *Cedar Hills will fill Area 9 and allow a greater max height to extend the lifetime of the landfill to 2038 (credit: King County Solid Waste Division)*
 
 To get a sense for how large this landfill will be when it's at full capacity (by the current definition of "full capacity"): imagine Green Lake and Woodland Parks in Seattle (including the zoo) completely filled with garbage up to a third of the height of the Space Needle (605 ft at the top of the spire). The average density of the pile would be about the same as solid butter*.
 
-![Map of Green Lake and Woodland Parks with area estimate of about 500 acres](/assets/img/2023-06-11_green-lake-area.png)
+![Map of Green Lake and Woodland Parks with area estimate of about 500 acres](/assets/img/2023-06-11-green-lake-area.png)
 
 *The active area of Cedar Hills Landfill will grow to the size of Green Lake and Woodland Parks (500 acres) and garbage will be piled up to 200 ft from the ground (credit: [Map Developers](https://www.mapdevelopers.com/area_finder.php))*
 
@@ -53,13 +53,13 @@ To get a sense for how large this landfill will be when it's at full capacity (b
 
 If the thought of the entire area of Green Lake and Woodland Parks filled up to 200 ft high with trash (or butter) doesn't fill you with disgust (or awe), then maybe this will: that 62% of the new garbage in the landfill could have been diverted! The [2019 Waste Characterization Study](https://kingcounty.gov/~/media/depts/dnrp/solid-waste/about/documents/waste-characterization-study-2019.ashx?la=en) concluded that **most** of what we threw away was "Readily Recyclable," meaning that it could have been recovered in recyclables or organics waste streams (see Disposed Waste Recoverability chart on left, below).
 
-![Charts showing Disposed Waste Recoverability (left) and Disposed Waste Composition (right), 2019](/assets/img/2023-06-11_waste-characterization-charts.png)
+![Charts showing Disposed Waste Recoverability (left) and Disposed Waste Composition (right), 2019](/assets/img/2023-06-11-waste-characterization-charts.png)
 
 *As the Disposed Waste Recoverability chart shows, 62% of the waste we threw away could have been recycled, mostly organics (credit: Cascadia Consulting Group)*
 
 As the Disposed Waste Composition chart on the above right shows, a large portion of the recoverable waste is in the organics category (Wood/Yard, Food, and Other Organics, almost half!); furthermore, as the chart below shows, seven of the top ten most common materials were recyclable (materials with blue rectangles). Note that samples were collected from all over the county, and a couple facilities do not offer recycling and organics collection. The facilities also collect residential as well as commercial waste, but the overall results are similar to residental-only results.
 
-![Seven of the top 10 most common types of waste could have been recycled](/assets/img/2023-06-11_waste-composition-top-ten.png)
+![Seven of the top 10 most common types of waste could have been recycled](/assets/img/2023-06-11-waste-composition-top-ten.png)
 
 *Seven of the top 10 most common types of waste found in the landfill could have been recycled (credit: Cascadia Consulting Group)*
 
@@ -77,7 +77,7 @@ This, in my opinion, is the most potent *smell* of the status quo: that we are w
 
 What can we do to slow the creation of new landfills and in the process create circular waste economies, where more materials are recovered and reused, and our waste is not so *wasteful*? I posed this question to Sergio Barbosa, KCSWD Operations Supervisor, while on a tour of the Bow Lake Transfer Station. He advocated for three things: changing incentives, improved facilities, and, most of all, education for residential customers to better sort and process their solid waste.
 
-![The solid waste system in King County, showing how recyclables and organics can be remade into new products](/assets/img/2023-06-11_solid-waste-system.png)
+![The solid waste system in King County, showing how recyclables and organics can be remade into new products](/assets/img/2023-06-11-solid-waste-system.png)
 
 *The solid waste system in King County, showing how recyclables and organics can be remade into new products (credit: King County Solid Waste Division)*
 
@@ -87,7 +87,7 @@ Meanwhile, on the side of the floor, individuals stood in the backs of pickup tr
 
 At home, I researched Mr. Barbosa's recommendations and found that the county has recognized the problem and is already taking action. There's never been a better time to support the movement towards a more circular economy.
 
-![Dropoffs at Bow Lake included a lot of recyclable materials](/assets/img/2023-06-11_bow-lake-dropoff.jpg)
+![Dropoffs at Bow Lake included a lot of recyclable materials](/assets/img/2023-06-11-bow-lake-dropoff.jpg)
 
 *Dropoffs at Bow Lake included a lot of recyclable materials (credit: me)*
 
@@ -97,7 +97,7 @@ It's encouraging that King County has a stated goal to "keep 70 percent of mater
 
 The county is also wrapping up a [pilot that uses a new Materials Recovery Facility (MRF) technology called Juno](https://recyclingtoday.com/news/juno-processing-king-county-georgia-pacific-contaminated-fiber/). Juno has the ability to capture cups with plastic coatings and contaminated paper-based food packaging, tripling landfill diversion rates in other areas that it has been used.
 
-[![Video of how an MRF works](/assets/img/2023-06-11_mrf.jpg)](https://youtu.be/7CFE5tD1CCI)
+[![Video of how an MRF works](/assets/img/2023-06-11-mrf.jpg)](https://youtu.be/7CFE5tD1CCI)
 
 *A MRF ("murf") inputs combined waste streams and sorts them using the magnetic, density, optical, and other properties of the materials. Other materials are sorted by hand by workers. Click to see a video of how an MRF works*
 
