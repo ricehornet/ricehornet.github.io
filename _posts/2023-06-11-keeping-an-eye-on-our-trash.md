@@ -4,7 +4,11 @@ title:  "Keeping An Eye On Our Trash"
 date:   2023-06-11 11:59:00 -0800
 ---
 
-![When full, King County's dump will be the same size as Green Lake and Woodland Parks in Seattle combined (credit: me)](/assets/img/2023-06-11-green-lake-dump.png)
+# This post was featured on [The Urbanist](https://www.theurbanist.org/2023/07/05/keeping-an-eye-on-our-trash/)!
+
+![When full, King County's dump will be the same size as Green Lake and Woodland Parks in Seattle combined](/assets/img/2023-06-11-green-lake-dump.png)
+
+*When full, King County's dump will be the same size as Green Lake and Woodland Parks in Seattle combined (credit: Eric Thorne)*
 
 # Garbage's Disappearing Act
 There's a [great episode of 99 Percent Invisible](https://99percentinvisible.org/episode/separation-anxiety/) that compares residential waste collection systems in Taiwan and the US. In Taipei, garbage and recycling trucks run their routes multiple times a day, playing distinctive classical music, and at each stop wait for residents to throw in their own garbage bags and sort their own recyclables. It's a system that forces residents to reckon with the volume and types of their waste.
@@ -19,7 +23,7 @@ But where does it all go? And how much of it is there? In King County, while our
 
 ![Location of Cedar Hills Regional Landfill in the East Renton Highlands](/assets/img/2023-06-11-cedar-hills-map.png)
 
-*Location of Cedar Hills Regional Landfill in the East Renton Highlands (credit: Google Maps plus my own annotation)*
+*Location of Cedar Hills Regional Landfill in the East Renton Highlands (credit: Google Maps plus annotation by Eric Thorne)*
 
 Just south of Cougar and Tiger Mountains, weekend favorites for many hikers in the area, rises another range (or perhaps a monument), the Cedar Hills Regional Landfill. The 920-acre site amasses an additional 1M tons per year, storing the garbage from about [1.5M people, or 68% of King County, as of May 2022](https://kingcounty.gov/~/media/depts/dnrp/solid-waste/facilities/documents/factsheet-CHRLF.ashx?la=en). The population that this humble dumping ground serves is expected to increase, as King County [grew by an average of over 3% annually from 2010 to 2020](https://datacommons.org/tools/timeline#&place=geoId/53033&statsVar=Count_Person) according to the US Census Bureau.
 
@@ -89,7 +93,7 @@ At home, I researched Mr. Barbosa's recommendations and found that the county ha
 
 ![Dropoffs at Bow Lake included a lot of recyclable materials](/assets/img/2023-06-11-bow-lake-dropoff.jpg)
 
-*Dropoffs at Bow Lake included a lot of recyclable materials (credit: me)*
+*Dropoffs at Bow Lake included a lot of recyclable materials (credit: Eric Thorne)*
 
 ## Investments
 
